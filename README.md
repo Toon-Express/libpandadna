@@ -20,5 +20,4 @@ The main people behind _libpandadna_ are listed below:
 * **loblao** - The lead developer of the project, and coordinator who writes most of the graphical parts of the project.
 * **xPythonic** - Keeps the project clean, and writes most of the logical/lexical parts of the project.
 
-### Contributing ###
-We welcome all potential contributors.
+Forked from https://github.com/loblao/libpandadna.
